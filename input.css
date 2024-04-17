@@ -23,3 +23,9 @@
     height: themne('spacing.128');
 
 }
+
+@media screen(xl) {
+    body {
+        @apply bg-black text-white;
+    }
+}
