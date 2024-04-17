@@ -17,3 +17,9 @@
         @apply bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-xl;
     }
 }
+
+.content-area {
+    @apply bg-green-200;
+    height: themne('spacing.128');
+
+}
